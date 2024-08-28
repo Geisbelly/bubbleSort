@@ -41,7 +41,7 @@
 <div align="left" />
 
 > ### Ficha Técnica
-> <br>Linguagem: Rust;
+> Linguagem: Rust;
 > <br>Metodo: Bubble Sort;
 > <br>Operação Fundamental: 𝑛2 − 𝑛
 > <br>Lógica:
