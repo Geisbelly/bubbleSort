@@ -71,16 +71,16 @@
 
 ### Analise para 100 mil
 
-#### Tempo de execução total: 3 minutos
+#### Tempo de execução total: 3 minutos e 20 segundos
 
 <div style="display: flex; align-items: flex-start; background-color: #87CEEB; padding: 20px;">
-  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/CPU100k.jpeg" style="margin-right: 50px;">
-  <img src="https://github.com/baskerbyte/rust-1B-challenge/blob/dev/fotos/RAm100k.jpeg">
+  <img src="https://github.com/Geisbelly/bubbleSort/blob/main/fotos/CPU100k.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/Geisbelly/bubbleSort/blob/main/fotos/RAm100k.jpeg">
+</div>
 </div>
 
-
 > #### Legenda:
-> Eixo x = Variação do tempo em segundo
+> Eixo x = Variação do tempo em minutos
 
 
 
