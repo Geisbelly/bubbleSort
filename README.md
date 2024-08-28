@@ -41,9 +41,9 @@
 <div align="left" />
 
 > ### Ficha Técnica
-> Programa para 100 mil dados;
 > <br>Linguagem: Rust;
 > <br>Metodo: Bubble Sort;
+> <br>Operação Fundamental: 𝑛2 − 𝑛
 > <br>Lógica:
 > <br>𝑛 ← 𝐓𝐚𝐦𝐚𝐧𝐡𝐨(𝐿)
 ><br>para 𝑗 ← 1 até 𝑛 faça
@@ -86,7 +86,8 @@
 
 ### Analise para 10 mil
 
-#### Tempo de execução total: 2 segundos
+#### Tempo de execução total: 5 segundos
+#### Operação Fundamental: 99.990.000
 
 <div style="display: flex; align-items: flex-start; background-color: #87CEEB; padding: 20px;">
   <img src="https://github.com/Geisbelly/bubbleSort/blob/main/fotos/CPU10k.jpeg" style="margin-right: 50px;">
@@ -95,12 +96,14 @@
 </div>
 
 > #### Legenda:
-> Eixo x = Variação do tempo em minutos
+> Eixo x = Variação do tempo em segundos
 
+<div align="center">
 
 ### Analise para 100 mil
 
 #### Tempo de execução total: 3 minutos e 20 segundos
+#### Operação Fundamental: 9.999.900.000
 
 <div style="display: flex; align-items: flex-start; background-color: #87CEEB; padding: 20px;">
   <img src="https://github.com/Geisbelly/bubbleSort/blob/main/fotos/CPU100k.jpeg" style="margin-right: 50px;">
