@@ -98,6 +98,8 @@
 > #### Legenda:
 > Eixo x = Variação do tempo em segundos
 
+<br>
+
 <div align="center">
 
 ### Analise para 100 mil
