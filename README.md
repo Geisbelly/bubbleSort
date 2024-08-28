@@ -44,6 +44,7 @@
 > Linguagem: Rust;
 > <br>Metodo: Bubble Sort;
 > <br>Operação Fundamental: 𝑛2 − 𝑛
+> 
 > <br>Lógica:
 > <br>𝑛 ← 𝐓𝐚𝐦𝐚𝐧𝐡𝐨(𝐿)
 ><br>para 𝑗 ← 1 até 𝑛 faça
