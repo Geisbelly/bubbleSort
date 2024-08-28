@@ -84,6 +84,20 @@
 ## Resultados
 
 
+### Analise para 10 mil
+
+#### Tempo de execução total: 2 segundos
+
+<div style="display: flex; align-items: flex-start; background-color: #87CEEB; padding: 20px;">
+  <img src="https://github.com/Geisbelly/bubbleSort/blob/main/fotos/CPU10k.jpeg" style="margin-right: 50px;">
+  <img src="https://github.com/Geisbelly/bubbleSort/blob/main/fotos/RAm10k.jpeg">
+</div>
+</div>
+
+> #### Legenda:
+> Eixo x = Variação do tempo em minutos
+
+
 ### Analise para 100 mil
 
 #### Tempo de execução total: 3 minutos e 20 segundos
@@ -96,6 +110,7 @@
 
 > #### Legenda:
 > Eixo x = Variação do tempo em minutos
+
 
 
 
