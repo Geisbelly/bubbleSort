@@ -10,11 +10,9 @@
 
   
 #### Nesse repositorios disponibilizamos uma implementação do algoritmos de ordenação e busca - Bubble Sort, com adicição de alguma informações sobre o mesmo:
-
 </div> 
 
 <div align="center" />
-
 <br>
 
 ## Integrantes
@@ -59,6 +57,23 @@
 ><br>fim-para
 
 </div>
+
+
+> ### Código
+> 
+>``` Rust  
+>let n = list.len();
+> for _ in 1..(n + 1) {
+>      for i in 0..((n + 1) - 2) {
+>          if list[i] > list[i + 1] {
+>              let t = list[i];
+>              list[i] = list[i + 1];
+>              list[i + 1] = t
+>          }
+>      }
+>}
+>```    
+
 
 ---
 
